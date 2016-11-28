@@ -1,2 +1,4 @@
 .idea
-certs
+certs/reverse-proxy.crt
+certs/reverse-proxy.key
+certs/reverse-proxy.pem
